@@ -29,3 +29,4 @@
 | scan            | 5-8 セキュリティ設計:  Trivy/Dockleによるセキュリティチェック                   | DevSecOpsを実現するためのCodeBuildのビルド定義を格納              |
 
 本書でPDFからコードをコピー＆ペーストしたり、写経するのが難しい場合がありますので、是非ご活用ください。# aws_container_book_sample
+# aws_container_book_sample
